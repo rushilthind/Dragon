@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = ODg3MjI2NzkzMDYzNDg5NjA2.YUBEVw.LEM_KgGR_uwqPeSGFSEJMuSilFQ
+token = a
 
 
 // This sets the owner of the bot
@@ -28,7 +28,7 @@ owner = 704224143402598472
 // If you use !!, the play command will be !!play
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 
-prefix = "oye"
+prefix = "!"
 
 
 // If you set this, it modifies the default game of the bot
@@ -57,7 +57,7 @@ songinstatus=true
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 
-altprefix = "Oye"
+altprefix = "+"
 
 
 // If you set these, it will change the various emojis
